@@ -36,5 +36,6 @@ var geekspots = [
 ["<a href=\"https://www.theregister.co.uk/2017/04/03/geeks_guide_caledonian_canal/\">Lochs, rifle stocks and two EPIC sea gates: Thomas Telford's Highland waterway</a>",57.490298,-4.262799],
 ["<a href=\"https://www.theregister.co.uk/2017/04/03/geeks_guide_caledonian_canal/\">Lochs, rifle stocks and two EPIC sea gates: Thomas Telford's Highland waterway</a>",56.846838,-5.093949],
 ["<a href=\"https://www.theregister.co.uk/2017/07/04/geeks_guide_cairngorm_mountain_railway/\">Extreme trainspotting on Britain's highest (and windiest) railway</a>",57.134630,-3.670610],
+["<a href=\"https://www.theregister.co.uk/2017/07/28/postal_museum_mail_rail/\">Everything you never knew about mail: The Postal Museum opens</a>",51.524017, -0.112468],
 ["<a href=\"http://www.visitlancashire.com/explore/dunsop-bridge\">Dunsop Bridge</a>",53.945691,-2.518205]
 ];
