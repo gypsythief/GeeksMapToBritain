@@ -40,6 +40,7 @@ var geekspots = [
 ["<a href=\"https://www.theregister.co.uk/2017/09/15/geeks_guide_hovercraft_museum/\">Fancy that! Craft which float over everything on a cushion of air</a>",50.807433,-1.209456],
 ["<a href=\"https://www.theregister.co.uk/2017/09/25/geeks_guide_jet/\">Hotter than the Sun: JET - Earth’s biggest fusion reactor, in Culham</a>",51.654000,-1.229000],
 ["<a href=\"https://www.theregister.co.uk/2018/01/11/osowka_underground_city/\">Heart of darkness: Inside the Osówka underground city</a>",50.669751,16.418266],
-["<a href=\"https://www.theregister.co.uk/2018/01/12/geeks_guide_to_britain_croome/\">Worcestershire's airborne electronics warfare wonderland</a>",52.105000, -2.165000],
+["<a href=\"https://www.theregister.co.uk/2018/01/12/geeks_guide_to_britain_croome/\">Worcestershire's airborne electronics warfare wonderland</a>",52.105000,-2.165000],
+["<a href=\"https://www.theregister.co.uk/2018/03/21/geeks_guide_to_britain_bennerley_viadict/\">Fancy a viaduct? We have a wrought Victorian iron marvel to sell you</a>",52.988776,-1.299691],
 ["<a href=\"http://www.visitlancashire.com/explore/dunsop-bridge\">Dunsop Bridge</a>",53.945691,-2.518205]
 ];
