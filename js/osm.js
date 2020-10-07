@@ -8,10 +8,12 @@ function initmap() {
 	map = new L.Map('map');
 
 	// Add Mapbox tile layer
-	L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, Imagery &copy; <a href="http://mapbox.com">Mapbox</a>',
+	L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+	attribution: '© <a href="https://www.mapbox.com/about/maps/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+		tilesize: 512,
 		maxZoom: 18,
-		id: 'mapbox.streets',
+//		zoomOffset: -1,
+		id: 'mapbox/outdoors-v11',
 		accessToken: 'pk.eyJ1IjoiZ3lwc3l0aGllZiIsImEiOiJjajR6dno4c3MxeWZ4MnFvYTlqYmE0cjYyIn0.t6yvC0RqDVnztu-TYUr5aQ'
 	}).addTo(map);
 
