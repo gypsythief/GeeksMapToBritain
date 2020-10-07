@@ -12,7 +12,7 @@ function initmap() {
 	attribution: '© <a href="https://www.mapbox.com/about/maps/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
 		tilesize: 512,
 		maxZoom: 18,
-		zoomOffset: 1,
+		zoomOffset: 0,
 		id: 'mapbox/outdoors-v11',
 		accessToken: 'pk.eyJ1IjoiZ3lwc3l0aGllZiIsImEiOiJjajR6dno4c3MxeWZ4MnFvYTlqYmE0cjYyIn0.t6yvC0RqDVnztu-TYUr5aQ'
 	}).addTo(map);
