@@ -17,7 +17,7 @@ function initmap() {
 	}).addTo(map);
 
 	// start the map in the center
-	map.setView(new L.LatLng(54.75, -2.0),6);
+	map.setView(new L.LatLng(54.75, -2.0),4);
 
 	// Import location list and draw to map
 	for (var i = 0; i < geekspots.length; i++) {
